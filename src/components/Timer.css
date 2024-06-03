@@ -1,0 +1,35 @@
+
+:root {
+  --primary-color: #ff0808;
+  --primary-hover-color: #000000;
+  --snooze-color: #e67e22;
+  --snooze-hover-color: #d35400;
+  --background-color: #121212;
+  --text-color: #ffffff;
+  
+}
+
+.timer {
+  margin-top: 10px;
+  font-size: 1.2em;
+  color: var(--text-color);
+}
+
+.time-left {
+  color: var(--primary-color);
+}
+
+.snooze-button {
+  background: var(--snooze-color);
+  color: var(--text-color);
+  border: none;
+  padding: 5px 10px;
+  margin-top: 5px;
+  border-radius: 3px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.snooze-button:hover {
+  background: var(--snooze-hover-color);
+}

@@ -1,0 +1,29 @@
+:root {
+    --header-background-start: #004a99;
+    --header-background-end: #960a83;
+    --header-text-color: #ffffff;
+    --header-shadow-color: rgba(0, 0, 0, 0.2);
+    --header-shadow-hover-color: rgba(0, 0, 0, 0.4);
+    --header-font-size: 2.5em;
+    --header-font-family: 'Arial', sans-serif;
+  }
+  
+  .App-header {
+    background: linear-gradient(to right, var(--header-background-start), var(--header-background-end));
+    color: var(--header-text-color);
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 4px 8px var(--header-shadow-color);
+    transition: box-shadow 0.3s ease;
+  }
+  
+  .App-header:hover {
+    box-shadow: 0 8px 16px var(--header-shadow-hover-color);
+  }
+  
+  .welcome-section {  
+    font-size: var(--header-font-size);
+    font-family: var(--header-font-family);
+    margin: 0;
+  }
+  

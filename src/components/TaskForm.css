@@ -1,0 +1,74 @@
+.task-form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  background-color: #2c2c2c;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.task-form input,
+.task-form .date-picker,
+.task-form .time-picker {
+  padding: 10px;
+  border: 1px solid #888;
+  border-radius: 4px;
+  background-color: #1e1e1e;
+  color: #fff;
+}
+
+.task-form input::placeholder,
+.task-form .date-picker::placeholder,
+.task-form .time-picker::placeholder {
+  color: #bbb;
+}
+
+.task-form .react-datepicker-wrapper {
+  width: 100%;
+}
+
+.task-form .react-datepicker__input-container input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #888;
+  border-radius: 4px;
+  background-color: #1e1e1e;
+  color: #fff;
+}
+
+.task-form .react-datepicker__header {
+  background-color: #2c2c2c;
+  border-bottom: 1px solid #888;
+}
+
+.task-form .react-datepicker__day,
+.task-form .react-datepicker__day-name,
+.task-form .react-datepicker__time-name {
+  color: #fff;
+}
+
+.task-form .react-datepicker__day:hover,
+.task-form .react-datepicker__day-name:hover,
+.task-form .react-datepicker__time-name:hover {
+  background-color: #444;
+}
+
+.task-form .react-datepicker__day--selected,
+.task-form .react-datepicker__day--keyboard-selected {
+  background-color: #960a83;
+}
+
+.task-form button {
+  padding: 10px;
+  background: linear-gradient(90deg, #960a83, #004a99);
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.task-form button:hover {
+  background: linear-gradient(90deg, #99008a, #003366);
+}
