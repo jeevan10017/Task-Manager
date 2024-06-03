@@ -1,42 +1,90 @@
-# TaskMaster 📋✨
 
-TaskMaster is a task management web application designed to help users organize their tasks effectively. It includes features such as task creation, task deletion, task updates, guided tours, and multi-language support.
+# TaskManager App 📋
 
-The project uses React.js for the frontend, Shepherd.js for guided tours, and MongoDB for data storage. It provides an intuitive user interface and interactive features to enhance the task management experience.
+![TaskMaster Logo](![logo](https://github.com/jeevan10017/Task-Manager/assets/132948936/cd0657d7-7eca-4d60-8b29-a3eb1dac2c0e)
+)
+
+Welcome to **TaskManager**, a powerful task management web application designed to help you stay organized and productive. This README provides an overview of the app, including its features, installation instructions, and more.
+
+[![TaskMaster App](https://img.shields.io/badge/TaskMaster-App-blue?style=for-the-badge&logo=appveyor)](https://task-manager-lyart-sigma.vercel.app/)
+[![YouTube Video](https://img.shields.io/badge/YouTube-Video-red?style=for-the-badge&logo=youtube)](https://youtu.be/86DmFxjUyyw)
 
 ## Table of Contents 📑
 
-- [TaskMaster 📋✨](#taskmaster-%f0%9f%93%8b%e2%9c%a8)
-  - [Table of Contents 📑](#table-of-contents-%f0%9f%93%91)
-  - [Demo 🚀](#demo-%f0%9f%9a%80)
-  - [Features 🎉](#features-%f0%9f%8e%89)
-  - [Tech Stack 🛠️](#tech-stack-%f0%9f%9b%a0%ef%b8%8f)
-  - [Installation and Setup Instructions 📚](#installation-and-setup-instructions-%f0%9f%93%9a)
-  - [Contributing 🤝](#contributing-%f0%9f%a4%9d)
-  - [Collaborators 🤖](#collaborators-%f0%9f%a4%96)
+- [Demo 🚀](#demo-)
+- [Features 🎉](#features-)
+- [Tech Stack 🛠️](#tech-stack-)
+- [Installation and Setup Instructions 📚](#installation-and-setup-instructions-)
+- [Contributing 🤝](#contributing-)
+- [Collaborators 🤖](#collaborators-)
 
 ## Demo 🚀
 
-[TaskMaster Demo Video](#) _(Coming Soon)_
+Check out the live demo of TaskMaster: [TaskMaster App](https://task-manager-lyart-sigma.vercel.app/)
 
-Note: The hosted version may not be available at all times due to the limitations of the free hosting service. Follow the installation instructions to run the application locally.
+Watch the YouTube walkthrough: [YouTube Video](https://youtu.be/86DmFxjUyyw)
+
+![TaskMaster Demo](![image](https://github.com/jeevan10017/Task-Manager/assets/132948936/b263c2fb-9f05-4c31-806e-87cf737457f7)
+)
 
 ## Features 🎉
 
-- **Task Creation:** Users can create new tasks with ease using the intuitive task creation form.
-- **Task Deletion:** Delete tasks that are no longer needed to keep your task list organized.
-- **Task Updates:** Update task details such as title, description, due date, etc., to keep track of task progress.
-- **Guided Tours:** Shepherd.js provides guided tours to help users navigate and understand the application features effectively.
-- **Multi-Language Support:** TaskMaster supports multiple languages, allowing users to choose their preferred language for the interface.
+- **Guided Tours with Shepherd.js**: Perfect for new users to get familiar with the app quickly. Available in multiple languages.
+- **Multi-Language Support**: Easily switch between English, Hindi, and Spanish.
+- **Intuitive Task Management**: Create, delete, and update tasks effortlessly.
+- **Dark Mode**: Modern and sleek user interface with dark mode support.
+
+![TaskMaster Features](![logo](https://github.com/jeevan10017/Task-Manager/assets/132948936/3ee56cbb-e945-459c-8978-00b1accb4224)
+)
 
 ## Tech Stack 🛠️
 
-- **Frontend:** React.js, Shepherd.js, CSS
-- **Backend:** MongoDB
-- **Other Tools:** Node.js, Express.js
+- **Frontend**: React.js, JavaScript, CSS
+- **Tour Integration**: Shepherd.js
+- **Deployment**: Vercel
 
 ## Installation and Setup Instructions 📚
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/taskmaster.git
+1. **Clone the repository:**
+    ```bash
+    git clone https://github.com/your-username/taskmaster.git
+    cd taskmaster
+    ```
+
+2. **Install the dependencies:**
+    ```bash
+    npm install
+    ```
+
+4. **Start the development server:**
+    ```bash
+    npm start
+    ```
+
+5. **Open** `http://localhost:3000` **to view it in the browser.**
+
+## Contributing 🤝
+
+Contributions are welcome! Please feel free to open an issue or submit a pull request if you have any ideas or suggestions.
+
+## Collaborators 🤖
+
+- **Jeevan Kumar Korra**: [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat&logo=github)](https://github.com/jeevan10017) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/your-username/](https://www.linkedin.com/in/jeevan-kumar-korra-068726252/))
+
+---
+
+**TaskMaster** - Stay organized, stay productive!
+
+![Footer Image](link-to-your-footer-image)
+
+---
+
+### Additional Images and Screenshots
+
+![Task Creation](![Screenshot 2024-06-03 232047](https://github.com/jeevan10017/Task-Manager/assets/132948936/96d9b46a-bf3b-4a93-b83d-7b600eecbd53)
+)
+![Task List](![Screenshot 2024-06-03 232008](https://github.com/jeevan10017/Task-Manager/assets/132948936/c815c44b-e3fd-4f57-aa15-e338aa2cce6b)
+)
+![Language Selector](![Screenshot 2024-06-03 231838](https://github.com/jeevan10017/Task-Manager/assets/132948936/993b4446-6ec7-458a-aa9f-37589fe79793)
+)
+
