@@ -1,7 +1,8 @@
 
 # TaskManager App 📋
 
-![TaskMaster Logo](![logo](https://github.com/jeevan10017/Task-Manager/assets/132948936/cd0657d7-7eca-4d60-8b29-a3eb1dac2c0e)
+(![logo](https://github.com/jeevan10017/Task-Manager/assets/132948936/c6d8c75b-faca-4268-b3de-551150cdeb70)
+
 )
 
 Welcome to **TaskManager**, a powerful task management web application designed to help you stay organized and productive. This README provides an overview of the app, including its features, installation instructions, and more.
