@@ -1,9 +1,10 @@
 
 # TaskManager App 📋
 
-(![logo](https://github.com/jeevan10017/Task-Manager/assets/132948936/c6d8c75b-faca-4268-b3de-551150cdeb70)
+![resize-17174383661896786713logo](https://github.com/jeevan10017/Task-Manager/assets/132948936/e4c36f34-e6b6-465a-a84b-9b54eeb80272)
 
-)
+
+
 
 Welcome to **TaskManager**, a powerful task management web application designed to help you stay organized and productive. This README provides an overview of the app, including its features, installation instructions, and more.
 
@@ -25,8 +26,7 @@ Check out the live demo of TaskMaster: [TaskMaster App](https://task-manager-lya
 
 Watch the YouTube walkthrough: [YouTube Video](https://youtu.be/86DmFxjUyyw)
 
-![TaskMaster Demo](![image](https://github.com/jeevan10017/Task-Manager/assets/132948936/b263c2fb-9f05-4c31-806e-87cf737457f7)
-)
+![image](https://github.com/jeevan10017/Task-Manager/assets/132948936/b263c2fb-9f05-4c31-806e-87cf737457f7)
 
 ## Features 🎉
 
