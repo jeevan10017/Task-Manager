@@ -73,11 +73,7 @@ Contributions are welcome! Please feel free to open an issue or submit a pull re
 
 ---
 
-**TaskMaster** - Stay organized, stay productive!
 
-![Footer Image](link-to-your-footer-image)
-
----
 
 ### Additional Images and Screenshots
 
