@@ -47,7 +47,7 @@ Watch the YouTube walkthrough: [YouTube Video](https://youtu.be/86DmFxjUyyw)
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/taskmaster.git
+    git clone https://github.com/jeevan10017/taskmaster.git
     cd taskmaster
     ```
 
